@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog Trial
+title: Welcome to my blog
 Thanks You! 💯
 ---
 
